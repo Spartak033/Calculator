@@ -12,3 +12,14 @@ D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-
 D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
 D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
 D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
+F:\calculator\Calculator\obj\Debug\netcoreapp3.0\GitExercise.csprojAssemblyReference.cache
+F:\calculator\Calculator\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+F:\calculator\Calculator\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+F:\calculator\Calculator\obj\Debug\netcoreapp3.0\GitExercise.dll
+F:\calculator\Calculator\obj\Debug\netcoreapp3.0\GitExercise.pdb
+F:\calculator\Calculator\bin\Debug\netcoreapp3.0\GitExercise.exe
+F:\calculator\Calculator\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+F:\calculator\Calculator\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+F:\calculator\Calculator\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+F:\calculator\Calculator\bin\Debug\netcoreapp3.0\GitExercise.dll
+F:\calculator\Calculator\bin\Debug\netcoreapp3.0\GitExercise.pdb
